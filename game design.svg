@@ -15,7 +15,7 @@
    viewBox="0 0 220.6269 177.81487"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="game design.svg">
   <defs
      id="defs2">
@@ -87,17 +87,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="349.40957"
-     inkscape:cy="403.82154"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1566.5093"
+     inkscape:cy="59.363062"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:window-width="1313"
-     inkscape:window-height="742"
-     inkscape:window-x="53"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="10"
      fit-margin-left="10"
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -928,5 +928,231 @@
            id="tspan3102"
            sodipodi:role="line">?</tspan></text>
     </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4610"
+       width="105.83334"
+       height="79.375"
+       x="363.54568"
+       y="69.007248" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4612"
+       width="14.03165"
+       height="9.915699"
+       x="370.35846"
+       y="71.651924" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2;font-family:Cambria;-inkscape-font-specification:Cambria;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="360.06857"
+       y="61.736225"
+       id="text4616"><tspan
+         sodipodi:role="line"
+         id="tspan4614"
+         x="360.06857"
+         y="70.752037"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2;font-family:Pikzel;-inkscape-font-specification:Pikzel;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="366.41833"
+       y="87.928635"
+       id="text4620"><tspan
+         sodipodi:role="line"
+         id="tspan4618"
+         x="366.41833"
+         y="87.928635"
+         style="stroke-width:0.26458332">Terminal</tspan></text>
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4622"
+       cx="432.09775"
+       cy="131.52029"
+       r="4.4901276" />
+    <g
+       id="g4638">
+      <circle
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4624"
+         cx="452.11624"
+         cy="123.28839"
+         r="4.4901276" />
+      <circle
+         r="4.4901276"
+         cy="137.8813"
+         cx="452.11624"
+         id="circle4626"
+         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2;font-family:Pikzel;-inkscape-font-specification:Pikzel;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="425.39523"
+       y="139.90718"
+       id="text4630"><tspan
+         sodipodi:role="line"
+         id="tspan4628"
+         x="425.39523"
+         y="139.90718"
+         style="font-size:5.64444447px;stroke-width:0.26458332">player</tspan></text>
+    <text
+       id="text4634"
+       y="132.27818"
+       x="448.32733"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2;font-family:Pikzel;-inkscape-font-specification:Pikzel;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         y="132.27818"
+         x="448.32733"
+         id="tspan4632"
+         sodipodi:role="line">NPC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:3.17499995px;font-family:Pikzel;-inkscape-font-specification:Pikzel;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="364.01236"
+       y="56.065544"
+       id="text4642"><tspan
+         sodipodi:role="line"
+         id="tspan4640"
+         x="364.01236"
+         y="56.065544"
+         style="font-size:4.23333311px;line-height:3.17499995px;stroke-width:0.26458332">saat player berada di depan terminal,</tspan><tspan
+         sodipodi:role="line"
+         x="364.01236"
+         y="59.240543"
+         style="font-size:4.23333311px;line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4648">player bisa melakukan teleport ke dunia digital</tspan><tspan
+         sodipodi:role="line"
+         x="364.01236"
+         y="62.415543"
+         style="font-size:4.23333311px;line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4654">kemudian layar gameplay berubah ke terminal.</tspan><tspan
+         sodipodi:role="line"
+         x="364.01236"
+         y="65.590546"
+         style="font-size:4.23333311px;line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4656">(bila perlu ada transisi)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:3.17499995px;font-family:Pikzel;-inkscape-font-specification:Pikzel;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="365.39777"
+       y="154.03769"
+       id="text4660"><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="154.03769"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4662">yang bisa dilakukan saat layar top-down:</tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="157.21269"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4666">- roaming atau jalan-jalan (WASD)</tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="160.3877"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4668">- attack (apakah bisa menggunakan senjata?)</tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="163.56268"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4670">- mengambil item.</tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="166.73769"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4696" /><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="169.91269"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4698">possible scenario:</tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="173.08769"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4700">- setelah connect ke network player harus mencari tahu</tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="176.2627"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4702">  alamat network selanjutnya yg perlu di tuju. untuk mencari </tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="179.43768"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4704">  tahu, player harus exit terminal dan roaming. saat roaming </tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="182.61269"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4706">  player bisa bertemu musuh (misal penjaga) dan harus melewati </tspan><tspan
+         sodipodi:role="line"
+         x="365.39777"
+         y="185.78769"
+         style="line-height:3.17499995px;stroke-width:0.26458332"
+         id="tspan4708">  penjaga untuk mendapatkan alamat network selanjutnya.</tspan></text>
+    <rect
+       y="69.007248"
+       x="482.87277"
+       height="79.375"
+       width="105.83334"
+       id="rect4672"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:3.17499995px;font-family:Pikzel;-inkscape-font-specification:Pikzel;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="488.97269"
+       y="76.890411"
+       id="text4676"><tspan
+         sodipodi:role="line"
+         id="tspan4674"
+         x="488.97269"
+         y="76.890411"
+         style="stroke-width:0.26458332;fill:#ffffff;">&gt; <tspan
+   style="fill:#b3b3b3"
+   id="tspan4678">type help for command list</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="80.065414"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4680">&gt; ayam@pc1$ help</tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="83.24041"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4682">command list:</tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="86.415413"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4684">help - show command list</tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="89.590408"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4686">exit - exit terminal to real world</tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="92.765411"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4688">find args - find directory or file</tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="95.940407"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4690">connect args - connect to a known network address</tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="99.11541"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4692">netmap - show network map that has been discovered</tspan><tspan
+         sodipodi:role="line"
+         x="488.97269"
+         y="102.29041"
+         style="stroke-width:0.26458332;fill:#ffffff;"
+         id="tspan4694">&gt; ayam@pc1$ </tspan></text>
   </g>
 </svg>
